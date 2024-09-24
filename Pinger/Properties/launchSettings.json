@@ -2,7 +2,7 @@
   "profiles": {
     "Pinger": {
       "commandName": "Project",
-      "commandLineArgs": "10.173.200.235 10.173.200.255"
+      "commandLineArgs": "10.173.73.3 10.173.73.20"
     }
   }
 }
